@@ -5,3 +5,5 @@ HOLA SOY 1
 <creo el contenido>
 <creo caja 1>
 <creo caja 2>
+
+<footer>
